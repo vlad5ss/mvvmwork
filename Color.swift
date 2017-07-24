@@ -11,6 +11,7 @@ import Foundation
 
 
 class Color {
+    //Model
     private static let zero = Float(floatLiteral: 0.0)
     private static let one = Float(floatLiteral: 1.0)
     var name:String
