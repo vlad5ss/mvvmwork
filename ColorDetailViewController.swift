@@ -8,7 +8,7 @@
 
 import Foundation
 import UIKit
-
+//color 
 class ColorDetailViewController: UIViewController {
     var viewModel:ColorDetailViewModel?
     override func viewDidAppear(_ animated: Bool) {
